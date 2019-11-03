@@ -10,3 +10,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+language:
+  - title: "English"
+    url: /en/
+  - title: "中文"
+    url: /zh/
