@@ -1,5 +1,28 @@
 ---
-layout: home
+layout: splash
 locale: zh-CN
-author_profile: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/home-page-feature.jpg
+  actions:
+    - label: "<i class='fas fa-wrench'></i> 马上造一个!"
+      url: "/docs/quick-start-guide/"
+excerpt: >
+  一个简单又强大的方式，造一台属于你自己的自动驾驶车。<br />
+  <small><a href="https://github.com/AlpacarCC/AlpacarCC.github.io">最新版本 v0.6</a></small>
+feature_row:
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: "customizable"
+    title: "Super customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - image_path: /assets/images/mm-responsive-feature.png
+    alt: "fully responsive"
+    title: "Responsive layouts"
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "100% free"
+    title: "100% free"
+    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
 ---
+
+{% include feature_row %}
