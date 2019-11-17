@@ -139,7 +139,7 @@ footer:
       url: https://twitter.com/AlpacarCC
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      #url: 
+      url: https://www.facebook.com/AlpacarCC
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/AlpacarCC/AlpacarCC.github.io
