@@ -82,8 +82,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter: https://twitter.com/AlpacarCC
-  username               : AlpacarCC
+twitter: 
+  username               : 
 facebook:
   username               :
   app_id                 :
